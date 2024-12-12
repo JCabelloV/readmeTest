@@ -1,4 +1,4 @@
-#![Grou Logo](/assets/grouLogo.png)
+# ![Grou Logo](/assets/grouLogo.png)
 
 # Grou APP Mobile (Nombre del proyecto que se almacena en el repo)
 
