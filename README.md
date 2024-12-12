@@ -1,13 +1,5 @@
 # Grou APP Mobile (Nombre del proyecto que se almacena en el repo)
 
-## Descripcion
-
-Descripción breve de lo que se almacena en el repositorio, por ejemplo:
-
-> Este repositorio contiene el código fuente de la app mobile de grou.
-
----
-
 ## Table of Contents
 
 - [Description](#description)
@@ -22,6 +14,14 @@ Descripción breve de lo que se almacena en el repositorio, por ejemplo:
 
 ---
 
+## Descripcion
+
+Descripción breve de lo que se almacena en el repositorio, por ejemplo:
+
+> Este repositorio contiene el código fuente de la app mobile de grou.
+
+---
+
 ## Technologies
 
 Ejemplo:
@@ -33,7 +33,7 @@ Ejemplo:
 
 ---
 
-## INstallation
+## Installation
 
 Instrucciones para poder configurar el proyecto de manera local
 
