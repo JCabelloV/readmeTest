@@ -1,5 +1,7 @@
 # ![Grou Logo](/assets/grouLogo.png)
 
+El logo debe estar en el repositorio y se debe referenciar la ubicacion de este.
+
 # Grou APP Mobile (Nombre del proyecto que se almacena en el repo)
 
 ## Table of Contents
