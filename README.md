@@ -1,4 +1,4 @@
-# ![Grou Logo](/assets/grouLogo.png)
+# [![Grou Logo](/assets/grouLogo.png)](https://grouapp.cl/)
 
 El logo debe estar en el repositorio y se debe referenciar la ubicacion de este.
 
