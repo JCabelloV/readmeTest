@@ -14,7 +14,7 @@
 
 ---
 
-## Descripcion
+## Description
 
 Descripción breve de lo que se almacena en el repositorio, por ejemplo:
 
