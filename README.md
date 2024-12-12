@@ -1,4 +1,4 @@
-# Grou APP Mobil (Nombre del proyecto que se almacena en el repo)
+# Grou APP Mobile (Nombre del proyecto que se almacena en el repo)
 
 ## Descripcion
 
